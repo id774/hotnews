@@ -191,7 +191,7 @@ class HotNews
               if v['title'] == entry
                 s = ""
                 s << v['title']
-                s << v['description']
+                s << v['description'] unless v['description'].nil?
                 wordmap[i] += 1 if s.include?(word)
               end
             end
