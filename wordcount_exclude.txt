@@ -1,5 +1,4 @@
-AFPBB
-AKB
+AFPBB AKB
 Annex
 BLOG
 Blog
@@ -242,3 +241,9 @@ Yahoo!ニュース
 連結子会社
 向け
 候補
+村上
+村上春樹
+期間
+限定
+期間限定
+公式
